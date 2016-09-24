@@ -12,6 +12,8 @@ namespace HolaMundo
         {
             // Código escrito por EMT38 (ENUM, sí ENUM)
             Console.WriteLine("KLK Mundo");
+            Console.Read();
+
         }
     }
 }
