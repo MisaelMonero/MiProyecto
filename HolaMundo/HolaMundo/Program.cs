@@ -10,6 +10,8 @@ namespace HolaMundo
     {
         static void Main(string[] args)
         {
+            // Código escrito por EMT38 (ENUM, sí ENUM)
+            Console.WriteLine("KLK Mundo");
         }
     }
 }
